@@ -1,0 +1,1 @@
+[Хороша стаття](https://www.alibabacloud.com/blog/all-you-need-to-know-about-pyflink_600306?utm_source=substack&utm_medium=email) про Python API для Apache Flink фреймворку. У статті є історія розвитку Python API, багато прикладів(які виглядають як Java код), архітектура фреймворку та опис багатьох фіч, які можна викликати через Python API.

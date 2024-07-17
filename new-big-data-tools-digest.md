@@ -1,0 +1,1 @@
+Новий місяць - [новий дайджест від компанії Jetbrains](https://blog.jetbrains.com/big-data-tools/2021/09/06/data-engineering-annotated-monthly-august-2021/). Дайджест містить підбірку цікавих статтей(зверність увазу на статтю по CDC у DevianArt), нові версії бібліотек та продуктів, а також корисні інструменти.  

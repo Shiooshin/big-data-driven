@@ -1,0 +1,3 @@
+[Стаття](https://www.allthingsdistributed.com/2021/06/amazon-timestream-time-series-is-the-new-black.html) про мотивацію розробки та архітуктуру Amazon Timestream. Timestream - time-series база данних для аналітики в реальному часі. Ми декліька років тому вирішували схожі проблеми використовуючи OpenTSDB + Hbase та InfluxDB. Проблеми OpneTSDB + Hbase підходу в тому, що сервіси потрібно постійно менеджити та скейлити в залежності від навантаженості. На це йде багато часу та сил. Навіть в обгортці Docker контейнеру та оркестрації, на відлагодження та підтримку все ще потрібен час, тому Timestream точно має свою нішу. 
+
+Проте, якщо ваш SLA дозволяє near real-time, рекомендую глянути в сторону Elasticsearch + Kibana для time-series аналітики. 

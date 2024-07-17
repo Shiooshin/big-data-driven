@@ -1,0 +1,1 @@
+Ретроспектива про те, як це, бути Інженером даних, починаючи з 2013 року у [двох](https://mehdio.substack.com/p/10-lessons-learned-in-10-years-of) [актах](https://mehdio.substack.com/p/10-lessons-learned-in-10-years-of-c34). Текст легко читається і наповнений гумором. Олди витруть скупу сльозу.

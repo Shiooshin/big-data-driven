@@ -1,0 +1,1 @@
+Навіть не знав про таку подію. Фейсбук провів конференцію Data Observability Learning SUmmit 2021 присвячену Data Gevovernance, DataOps тап MLOps. Доповідей небагато, але всі вони є [у відкритому доступі за посиланням](https://www.facebook.com/watch/9445547199/490224945331402).

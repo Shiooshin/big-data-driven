@@ -1,0 +1,5 @@
+Як кожен тренд, Lakehouse архітектура переходить з Innovators у Early Adopters відносно [Innovation/Adoption Curve](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle). Я все більше і більше зустрічаю статті, де описина імплементація Lakehouse архітектури для Платформи Даних. Сьогодні поділюсь однією з них. Це [приклад Lakehouse архітектури у галузі медицини](https://blogs.halodoc.io/lake-house-architecture-halodoc-data-platform-2-0/). Додатково гляньте [мотивацію вибору Lakehouse для згаданої вище Платформи Даних](https://blogs.halodoc.io/data-platform-2-0-part-1/).
+
+Архітектура, що описана в статті типова для AWS. Це комбінація S3 + Apache Hudi. А також ad-hoc запити + OLAP система. Для ad-hoc це де-факто AWS Athena. А для OLAP рішення це здебільшого Redshift.
+
+Ще два важливі компоненти варто згадати в контексті Lakehouse архітектури. Glue Catalog для роботи з схемою даних Data Lake, а також LakeFormation - сервіс який дозволяє легко налаштувати безпеку та досуп до даних в Data Lake.

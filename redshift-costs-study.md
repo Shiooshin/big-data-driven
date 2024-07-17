@@ -1,0 +1,1 @@
+Інколи місячний рахунок за Redshift відрізняється від того, що ви рахували на AWS Calulator. [Стаття](https://aws.amazon.com/blogs/big-data/how-to-attribute-amazon-redshift-costs-to-your-end-users/) розповідає в деталях за що стягується плата, а також про утилітні таблиці, які допоможуть у розрахунку.

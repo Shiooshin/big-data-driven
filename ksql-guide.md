@@ -1,0 +1,1 @@
+Confluent зібрав декілька відео уроків по ksql і виклав їх [однією статтею у блозі](https://www.confluent.io/blog/ksqldb-architecture-and-advanced-features/)

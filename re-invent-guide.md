@@ -1,0 +1,1 @@
+Вже в кінці цього місяця пройде велика конференція, яку організовує Amazon - [re:Invent](https://reinvent.awsevents.com/). І, як і кожного року, Amazon завбачливо підготувала [добірку доповідей](https://aws.amazon.com/blogs/big-data/your-guide-to-aws-analytics-at-reinvent-2022/), пов'язану з даними та Інженерією Даних. 

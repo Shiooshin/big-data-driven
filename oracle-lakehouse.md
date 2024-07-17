@@ -1,0 +1,2 @@
+Після конференції Oracle, з'явилось [трохи цікавих новин](https://www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.html#tk.rss_database). 
+Oracle анонсував свій Lakehouse сервіс на основі Oracle MySQL. Це по суті external таблиці BigQuery, чи Redshift Spectrum. В статті також є новини щодо супер-перформенсу нового MySQL сервера та тренування ML моделей.

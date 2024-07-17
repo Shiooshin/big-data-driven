@@ -1,0 +1,1 @@
+Нещодавно я ділився посиланням на блог Shopify про оптимізацію BigQuery. Тема оптимізації запитів завжди акетуальна, то ось ще [7 практик](https://medium.com/google-cloud/long-running-query-optimization-guide-for-bigquery-b3bd3fbca629) про які варто знати при оптимізації запитів до BigQuery.

@@ -1,0 +1,1 @@
+[Цікава стаття](https://hakibenita.com/postgresql-unknown-features) про найменш відомі фічі, які є у бази даних PotgreSQL. Може бути корисно, якщо ви використовуєте PostgreSQL на проекті, або просто для перевірки своїх знань по PostgreSQL.

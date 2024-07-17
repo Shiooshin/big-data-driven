@@ -1,0 +1,1 @@
+[Дуже розгорнутий посібник](https://airbyte.com/blog/data-lake-lakehouse-guide-powered-by-table-formats-delta-lake-iceberg-hudi) по розробці сучасного Data Lake. В статті приведено багато порівнянь, таблиць та посилань на корисні статті та дослідження по Data Lake та суміжніх технологіях і сервісах. Дуже раджу ознайомитись.

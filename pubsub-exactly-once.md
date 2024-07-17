@@ -1,0 +1,1 @@
+Неочікувана, проте приємна новина. Сервіс PubSub (це такий event bus сервіс у Google CLoud Platform) [оголосив підтримку](https://cloud.google.com/blog/products/data-analytics/cloud-pub-sub-exactly-once-delivery-feature-is-now-ga/) exactly-once сематнки доставки повідомлень. 

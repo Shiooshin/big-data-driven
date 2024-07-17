@@ -1,0 +1,7 @@
+Чи то була внутрішня AWS конференція, чи то запланований реліз назрів, але є трохи анонсів по **AWS Redshift**:
+- AWS Redhisft [матиме](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-row-level-security/) підтримку Row-level Security. Тепер буде можливість обмежити доступ на row та column рівнях
+- Ціноутворення BigQuery певне гарно працює. Настільки гарно, що AWS [пробує](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-serverless-generally-available/) схожий підхід з Redshift Serverless
+- Вже можна [спробувати](https://aws.amazon.com/about-aws/whats-new/2022/07/automated-materialized-view-amazon-redshift/) Automated Materialized View для Redshift. Автоматизовані вони ML алгоритмами(ну а чим ше?) які вирішують коли доцільно перезапускати запит для Materialized View
+- [Тепер](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-improves-cluster-resize-performance-flexibility-cluster-restore/) класична зміни потужностей кластеру(classic resize) Redshift займає не години як раніше, а декілька хвилин
+
+А якщо ви шукаєте нових викликів, або думаєте над зміною місця роботи - можна спробувати себе [інженером в Міноборони](https://dou.ua/lenta/news/vacancies-for-it-specialists-in-the-ministry-of-defense/)

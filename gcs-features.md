@@ -1,0 +1,3 @@
+Google Cloud Storage стає все більш гнучкішим. [Дві нові фічі](https://cloud.google.com/blog/products/storage-data-transfer/understanding-cloud-storages-new-prefix-and-suffix-lifecycle-rules) вже доступні для користування:
+- тепер можна додавати нові правила життя файлу підв'язувати під префікси(корисно при ієрархічній структурі бакета) та суфікси(корисно при роботі з розширеннями файлів)
+- автоматична зачистка multipart файлів, які з тим чи інших причин недогрузились в GCS

@@ -1,0 +1,1 @@
+8-10 червня, пройде онлайн конференція [Snowflake Summit](https://www.snowflake.com/summit/). Якщо ви використовуєте або плануєте використовувавти Data Warehouse рішення, то рекомендую глянути в сторону Snowflake. У блозі компанії є [короткий гід по конференції](https://www.snowflake.com/blog/your-guide-to-snowflake-summit-2021-june-8-10/)

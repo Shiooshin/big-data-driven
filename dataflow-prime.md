@@ -1,0 +1,1 @@
+Не тільки AWS має цікаві новинки щодо сервісів пов'язаних з даними. Нещодавно Google [анонсував розширені можливісті DataFlow](https://cloud.google.com/blog/products/data-analytics/latest-dataflow-innovations-for-real-time-streaming-and-aiml). Серед них покращений скейлінг Dataflow, інтеграція Dataflow Go API з конекторами на Java та ML модклями на Python. 

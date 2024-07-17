@@ -1,0 +1,1 @@
+Компанія Netify [розповідає](https://www.netlify.com/blog/2021/08/10/how-the-netlify-data-team-migrated-from-databricks-to-snowflake/) як мігрувала Платформу Даних з Databricks на Snowflake. Найцікавіше особисто для мене було читати як процес міграції керувався на рівні компанії, між менеджментом та інженерними командами.

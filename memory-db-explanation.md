@@ -1,0 +1,1 @@
+[Стаття](https://www.allthingsdistributed.com/2021/11/amazon-memorydb-for-redis-speed-consistency.html), яка намагається пояснити, навіщо був створений ще один Redis у AWS. З корисного те, що MemoryDB по замовчуванню реплікує дані в декілька регіонів. Коли вже є зберігання на диск, то основна суть Redis втрачається. Я досі не розумію явного застосування MemoryDB. 

@@ -1,0 +1,3 @@
+Це мабуть перший Data Mesh-asa-Service який я бачив. Google анонсував доступ до сервісу [Dataplex](https://cloud.google.com/blog/products/data-analytics/build-a-data-mesh-on-google-cloud-with-dataplex-now-generally-available), що позиціонується як уніфікована платформа для DWH та DL на GCP. У платформу включено декілька основних компонентів для Data Discovery, Data Governance, Data Catalog та інтеграцію з іншими сервісами GCP, що пов'язані з даними. 
+
+Data Mesh - це складно. Мені важко уявити, аби один сервіс міг легко вирішувати мульти-доменні проблеми та уніфікувати різні аспекти Платформи Даних. Почекаю на зрозумілий case study цього сервісу і обов'язково поділюсь з вами.

@@ -1,0 +1,5 @@
+[Наглядний приклад](https://cloud.google.com/blog/products/identity-security/how-to-use-google-cloud-to-find-and-protect-pii) автоматизації Data Security з використанням сервісів GCP. Восени минулого року GCP [викотила сервіс](https://cloud.google.com/blog/products/identity-security/automatic-dlp-for-bigquery) автоматичного аналізу та профілювання даних в BigQuery з не дуже зрозумію назвою Cloud Data Loss Prevention(Cloud DLP). 
+
+Cloud DLP автоматично тегає дані, семантично групувує і візуалізовує теги для кращого розуміння даних. Новина полягає в тому, що тепер Cloud DLP став краще інтегруватись з іншими сервісами GCP. У статті наведений приклад, як відносно тегу, через Cдoud Function можна обмежити доступ до тої чи іншої колонки у таблиці BigQuery. Такий функціонал значно спрощує роботу security команді та Інженерам Даних, які раніше вручну імплементували правила доступу до даних.
+
+По суті, зв'язка Cloud DLP + Cloud Function - це такий аналон Macie + Lambda на AWS, яку можна було реалізувати ще до того, як GCP анонсував автоматизацію Cloud DLP сервісу.

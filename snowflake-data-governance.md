@@ -1,0 +1,3 @@
+[Величенький пост](https://medium.com/@ravikuma2003/re-imagine-data-governance-with-snowflake-horizon-and-powered-by-ai-9ac1ead51b6f) про те, як Snowflake справляється з Data Governance. Незважаючи на те, скільки сторонніх сервісів щодо Data Governance є в Snowflake Marketplace, команда все таки вирішила розробляти свій власний сервіс на основі можливостей самої платформи Snowflake. У статті є приклади як використання OpenAPI API, так і внутрішньої API для впровадження LLM щодо питань Data Governance. 
+
+Вважаю, що Snowflake все робить правильно - хайпує на гарячій темі і надає зручний API для використання популярних LLM всередині своєї платформи.

@@ -1,0 +1,1 @@
+[Розгортнутий путівник](https://medium.com/google-cloud/gcp-bigquery-data-security-at-rest-series-menu-1e59e1793deb), який достеменно описує всі можливі варіанти убезпечення даних за допомогою фіч сервісу BigQuery.

@@ -1,0 +1,3 @@
+Redshift ніяк не заспокоїться. Amazon [відкрила код свого ODBC драйверу](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-open-source-odbc-driver-binary-protocol-support-enhanced-performance/) для Redshift, а також добавила підтримку бінарного протоколу для більш швидкої передачі даних.
+
+Також вийшов [мажорний реліз](https://preset.io/blog/apache-superset-2-0-release-notes/) Apache Superset. З'явились нові види візуалізацій, підфіксали існуючі візуалізації та добавили можливість підключити Superset до таких джерел даних як Trino, Databricks, SQLite та Apache Pinot.

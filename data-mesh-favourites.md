@@ -1,0 +1,1 @@
+Мабуть я трохи набрид з новинами про Data Mesh, тому залишаю збірку [основних статтей по Data Mesh](https://datameshlearning.substack.com/p/favorites), складену організатором Data Mesh спільноти.

@@ -1,0 +1,1 @@
+Сайт [db-engines.com](https://db-engines.com/en/) щороку визначає найпопулярнішу базу даних. [Цього року](https://db-engines.com/en/blog_post/103), як і останні два роки, на першому місці опинився Snowflake. Друге місце зайняв Google BigQuery. Трійку лідерів цього року замикає PostgreSQL.

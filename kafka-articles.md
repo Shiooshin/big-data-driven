@@ -1,0 +1,3 @@
+Мені подобається Apache kafka і ми неодноразово її використовували на проектах. Тому цього разу поділюсь двома статтями, які можуть бути для вас цікавими:
+- Як [Yelp переводив Apache Kafka з EC2 інстансів у Kubernetes](https://engineeringblog.yelp.com/2021/12/kafka-on-paasta-part-one.html). Тут, на жаль, без вагомих деталей. Варто зазначити, що окрім Kafka вони ще підтягнули Cruise Control та власний Kubernetes Operator.
+- [Дуже корисна стаття](https://www.confluent.io/blog/how-to-survive-a-kafka-outage/), про стратегії реанімації Apache Kafka коли у вас великий потік даних. А також загалом про відмовостійкість та доступність сервісів. 

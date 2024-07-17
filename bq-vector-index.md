@@ -1,0 +1,3 @@
+BigQuery тестує ще більш безшовну інтеграцію з своїми сервісами, а саме з VertexAI. Цього разу командна BigQuery вводить функціонал [векторного індексу](https://cloud.google.com/blog/products/data-analytics/introducing-new-vector-search-capabilities-in-bigquery/), що дозволить з коробки використовувати такий функціонал як semantic search, similarity detection, retrieval-augmented generation на основі ваших даних. Векторний індекс базується на створенні embeddings для ваших даних і буде використовуватись при запитах. 
+
+Поки не зрозуміло скільки таке задоволення буде коштувати, але з таким успіхом BigQury стане SaaS рішенням де можна буде просто залити ваш датасет і з коробки користуватись ML моделями використовуючи мову запитів SQL.

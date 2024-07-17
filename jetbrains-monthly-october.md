@@ -1,0 +1,3 @@
+Новий випуск дайджесту від компанії JetBrains за [жовтень](https://blog.jetbrains.com/big-data-tools/2021/11/08/data-engineering-annotated-monthly-october-2021/). Цього місяця дайджест багатий на Apache Spark. Також у жовтені вийшло багато мінорних релізів продуктів, пов'язаних з Інженерією Даних: Apache Spark 3.2, Airflow 2.2, новий Apache Flink 1.14.0 та Apache Beam. Посилання на release notes на кожен з продуктів ви знайдете в дайджесті.
+
+Ще з цікавого варто звернути увагу на статтю про оптимізацію Presto з допомогою Spark, та near real-time обробку даних у Twitter.

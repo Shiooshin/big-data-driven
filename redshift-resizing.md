@@ -1,0 +1,1 @@
+Як правильно змінювати розміри Amazon Redshift кластера на [прикладах Classic та Elastic resizing](https://blogs.halodoc.io/demystifying-redshift-cluster-resizing/)

@@ -1,0 +1,1 @@
+Вийшов новий [реліз Python 3.10](https://www.python.org/downloads/release/python-3100/). Спеціально для лінивих компанія [JetBrains записала відео](https://www.youtube.com/watch?v=JteTO3EE7y0) в якому розповідає про зміни, що потрапили в реліз. 

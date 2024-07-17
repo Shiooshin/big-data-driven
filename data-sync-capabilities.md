@@ -1,0 +1,1 @@
+Тепер AWS DataSync, сервіс для збору даних у вигляді файлів з різних джерел [вміє інтегруватись з іншими Object Store сховищами](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-datasync-copying-data-other-clouds/) такими як Google Clod Storage, Azure Blob Storage. Саме те, що потрібно для швижкої міграції з іншого сховища файлів, на AWS.

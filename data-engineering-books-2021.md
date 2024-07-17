@@ -1,0 +1,1 @@
+[Список літератури на літо](https://www.mltut.com/best-data-engineering-books/). З фундаментального тут звісно є Data Warehouse Toolkit, і моя улюблена книга Designing Data-Intensive Application(дуже рекомендую). 

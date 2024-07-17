@@ -1,0 +1,3 @@
+у блозі GCP є нарешті [прикладна стаття](https://cloud.google.com/blog/products/data-analytics/building-a-data-mesh-on-google-cloud-using-bigquery-and-dataplex/) по Data Mesh архітектурі. Окрім обгрунтування застосування та проблематики шаблону, в статті є діаграма Data Mesh архітектури з використанням сервісів GCP. Проте найголовніше, в статті є посилання на [whitepaper](https://services.google.com/fh/files/misc/build-a-modern-distributed-datamesh-with-google-cloud-whitepaper.pdf) де у розгорнутій формі описана імплементація Data Mesh щаблону за допомогою сервісів GCP. 
+
+Якщо вам цікаво дізнатись більше про Data Mesh - рекомендую глянути whitepaper, проте якщо лінь читати pdf на 20 сторінок, то гляньте на статтю.   

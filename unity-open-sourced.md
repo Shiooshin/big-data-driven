@@ -1,0 +1,1 @@
+Компанія Databricks завжди була щедра до комюніті. Цього разу вони офіційно віддали в комюніті з відкритим кодом розробку, яку піарили останні пів року - [Ubnity Data Catalog](https://www.databricks.com/blog/open-sourcing-unity-catalog?utm_source=substack&utm_medium=email)

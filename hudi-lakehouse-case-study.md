@@ -1,0 +1,1 @@
+[Приклад побудови Lakehouse системи](https://medium.com/slalom-build/data-lakehouse-building-the-next-generation-of-data-lakes-using-apache-hudi-41550f62f5f) з використанням Apache Hudi. Стаття в деталях розповідає про особливості Hudi, загальні концепції Lakehouse та приклад архітектури системи на AWS.

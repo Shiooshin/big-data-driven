@@ -1,0 +1,1 @@
+В компанії Halodoc дуже хороший блон в якому вони часто пишуть про свою Платофрму Даних. Цього разу [корисна стаття](https://blogs.halodoc.io/data-lake-cost-optimisation-strategies/) про оптимізацію їхньої Lakehouse імплементації на AWS з використанням S3 та HUDI. 

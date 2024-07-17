@@ -1,0 +1,3 @@
+Минулого тижня AWS [анонсував цікаву фічу пов'язану з Redshift](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-public-preview-streaming-ingestion-kinesis-data-streams/). Фіча дозволить SQL засобами Redshift витягувати дані напряму з Kinesis стрімів. Не потрібно буде виткористовувати AWS Glue або Firehose + Redshift COPY аби отримати near real-time дані у Redshift. 
+
+Схожий функціонал є доступний у BigQuery, проте не зовсім. BigQuery дозволяє шаблоном налаштувати інтеграцію PubSub з допомогою Dataflow в декілька кліків, проте інтеграція - це саме Dataflow пайплайн а не нативна частина BigQuery сервісу. AWS в тому плані пішов далі і ще й додав SQL інтерфейс аби інтеграція з Kinesis була зовсім безшовною. 

@@ -1,0 +1,3 @@
+В [недавньому пості](https://www.infoworld.com/article/3617938/striking-a-balance-with-open-at-snowflake.html) співзасновник Snowflake, Benoit Dageville, розповів як Snowflake цінує open-source. Нагадаю, що Snowflake - SaaS, який надає Data Warehouse рішення і відкритого нічого не має. Дуже сподобався тезис *This is not about rejecting open; it’s about delivering better value for customers*. 
+
+SaaS - зручна модель для вирішення бізнес проблем, проте закритість таких рішень призводить до нових проблем, одна з основних, з якими я стикнувся - відлагодження. Замість того, щоб копатись в логах і відслідковувати причину відсутності данних, я сиджу на годинних дзвінках в підтримкою, яка займається тим же, копаючись в своєму SaaS та моїх данних.

@@ -1,0 +1,3 @@
+Нещодавно компанія Snowflake провела масштабний хакатон для сервісів, які інтегруються з їх хмарним Data Warehouse. У фінал вийшли 4 компанії, які здебільшого спеціалізуються на AI та ML практиках. І, дуже неочікувано, [Snowflake купує переможця хакатону: компанію Neeva](https://venturebeat.com/ai/snowflake-acquires-neeva-days-after-the-search-startup-pivots-to-enterprise/). Neeva спеціалізується на пошуку даних з допомогою генеративного AI. 
+
+Цікаво чи з допомогою Neeva, компанія Snowflake оптимізує пошук по своїх датасетах, чи буде розвивати ML та AI сервіси всередині Data Warehouse як це вже роблять Redshift та BigQuery

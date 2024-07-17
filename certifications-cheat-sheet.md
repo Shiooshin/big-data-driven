@@ -1,0 +1,1 @@
+Знайшов [хорошу підбірку сертифікацій](https://medium.com/snowflake/professional-certifications-for-snowflake-and-its-ecosystem-8cc646ab4358), що будуть корисні для Інженерів Даних. В статті є опис сертифікації, ціна та трохи деталей про сам екзамен. 

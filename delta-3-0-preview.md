@@ -1,0 +1,3 @@
+От ми й [отримали нову версію Delta 3.0](https://www.databricks.com/blog/announcing-delta-lake-30-new-universal-format-and-liquid-clustering). Новий реліз Delta має мало спільного з Open Table Format(OTF) таблицями. Дельта перетворюється в повноцінну платформу Delta Lake на основі відкритого коду. До нових фіч платформи добавився Метастор, який підтримує всі популярні OTF, f ot Фреймворк для коннекторів і оптимізатор. 
+
+Впевниними кроками ми добираємось до open-source Lakehouse, який можна буде легко розгорнути без допомогти Databricks. 

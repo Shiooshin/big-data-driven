@@ -1,0 +1,1 @@
+AWS у своєму блозі ділиться [порадами](https://aws.amazon.com/blogs/architecture/optimize-your-modern-data-architecture-for-sustainability-part-1-data-ingestion-and-data-lake/) по збору даних та організації Data Lake. На диво, не всі поради прив'язані до сервісів AWS та правильного їх використання, а є поради щодо підходу до самих даних та архітектури. Не схоже на AWS.

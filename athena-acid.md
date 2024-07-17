@@ -1,0 +1,1 @@
+Фіча, яка логічно мала з'язвитись в AWS Athena відколи Amazon почав додавати підтримку Apache Hudi. Але не зовсім. [Athena тепер підтримує ACID транзакції](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-acid-apache-iceberg/), але під капотом Apache Iceberg.

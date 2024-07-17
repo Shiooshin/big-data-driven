@@ -1,0 +1,1 @@
+Цього разу Google Cloud Platform в ролі доганяючого, і тільки [зараз дає можливість працювати з маніфест файлами](https://cloud.google.com/blog/products/data-analytics/bigquery-manifest-file-support-for-open-table-format-queries/) для Open Table Format фреймворків у BigQuery.

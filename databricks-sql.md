@@ -1,0 +1,1 @@
+Databricks анонсували новий продукт [Serverless SQL](https://databricks.com/blog/2021/08/30/announcing-databricks-serverless-sql.html) який виглядає як Presto-as-a-Service. У AWS схожий підхід реалізовує Athena.  

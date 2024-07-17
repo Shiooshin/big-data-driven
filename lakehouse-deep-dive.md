@@ -1,0 +1,1 @@
+Якщо ви краєм вуха чули про такий шаблон побудови Платформ Даних як Lakehouse, то на Youtube каналі компанії Databricks доступне 3-х годинне відео [Lakehouse with Delta Lake Deep Dive](https://www.youtube.com/watch?v=znv4rM9wevc&ab_channel=Databricks) 

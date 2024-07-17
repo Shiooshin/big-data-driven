@@ -1,0 +1,3 @@
+[Confluent в своєму блозі анонсувала](https://www.confluent.io/blog/confluent-developer-launches-free-apache-kafka-courses-and-tutorials-online/) новий [навчальний ресурс](https://developer.confluent.io/) присвячений Kafka та суміжним технологіям. На ресурсі можна пройти курси по Kafka, Streams, KSQL, пройти практичні заняття, дізнатись про шаблони розробки event-based систем та поглибити свої знання у потоковій обробці даних. 
+
+На мою думку, це прекрасна ініціатива, на яку було витрачену багато часу та зулись компанії Confluent для маркетингу своїх сервісів та, в першу чергу, популяризації Kafka.

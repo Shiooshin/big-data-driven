@@ -1,0 +1,1 @@
+Трохи про моделювання даних по Кімбалу. [Приклад імплентації SCD(slowly changing dimension) type 2](https://aws.amazon.com/blogs/big-data/implement-a-slowly-changing-dimension-in-amazon-redshift/) на основі AWS Redshift.

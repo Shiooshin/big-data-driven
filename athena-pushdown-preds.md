@@ -1,0 +1,1 @@
+[Наглядний приклад](https://aws.amazon.com/ru/blogs/big-data/improve-federated-queries-with-predicate-pushdown-in-amazon-athena/) роботи pushdown predicates у AWS Athena. Дуже круто, що предикати в Athena зроблені з урахуванням різних конекторів, та доступні у Federated Query. Це дозволяє оптимізувати запити до різних сховищ, які доступні з Athena.
