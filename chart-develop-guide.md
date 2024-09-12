@@ -1,0 +1,1 @@
+[Дуже простий і зрозумілий гайд](https://medium.com/@tjdus92422/mastering-dashboard-design-from-good-to-unmissable-data-visualizations-e3a1b5ee108a) при розробці графіків та дашбордів. Стаття описує базові принципи до яких варто звертатись коли ви дизайните та розробляєте графіки на основі даних. 
