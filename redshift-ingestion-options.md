@@ -1,0 +1,1 @@
+У блозі компанії AWS з'явилась [цікава стаття щодо Redshift](https://aws.amazon.com/blogs/big-data/amazon-redshift-data-ingestion-options/) - їх основного Data Warehouse рішення. Стаття доволі коротка, проте містить багато ресурсних посилань та стислий опис всіх підходів для збору даних з інших джерел, у, власне, Amazon Redshift. 
