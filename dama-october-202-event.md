@@ -1,0 +1,1 @@
+Ми продовжуємо розвивати українську спільноту та розповідати про дані та Управління Даними. Вже цієї середи [DAMA Ukraine Kyiv](https://www.linkedin.com/groups/12924522/) організовує подію [Data Governance integration in an agile@scale based organisation](https://www.linkedin.com/events/datagovernanceintegrationinanag7252977140348968961/about/)
