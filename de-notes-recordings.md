@@ -1,0 +1,1 @@
+Якщо ви раптом пропустили минулого тижня подію AWS Data Engineering Notes, то їх можна глянути [ось тут в Youtube плейлисті](https://www.youtube.com/playlist?list=PLX6mYDcYB9WZ1ZLzfKKcVaYg3ZcVCZ0-i)
