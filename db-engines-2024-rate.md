@@ -1,0 +1,3 @@
+Кожного року сайт [db-engines.com](https://db-engines.com/en/) визначає топ-3 DMS(Database Management System) року. У 2024 році, перше місце зайняло PostgreSQL. Другий рік поспіль сайт визначає сховищем року цю реляційну базу даних. На другому місці опинився Snowflake(але, власне, як DMS, а не як ціла екосистема). Третє місце зайняли реляційні сховища від Microsoft - Azure SQL Database and SQL Server.
+
+[Минулорічний топ виглядав ось так](https://t.me/bigdatadriven/331)
