@@ -1,0 +1,3 @@
+Сьогодні хвилинка оптимізації:
+- Раджу глянути статтю про [оптимізацю BigQuery COUNT DISTINCT](https://engineering.doit.com/bigquery-hll-how-we-cut-count-distinct-query-costs-by-93-using-hyperloglog-74fc369b6092) та використання HyperLogLog алгоритму.
+- Як команда Medium [оптимізовувала старі Snowlake пайплайни](https://medium.engineering/learnings-from-optimising-22-of-our-most-expensive-snowflake-pipelines-5ea6fcf57356) та на що звертати увагу при оптимізації витрат та структури дата пайплайнів
